@@ -7,6 +7,19 @@
 // git remote -v
 // this will show you the repository you are currently working on
 // make sure that you are in the correct repository
+
+// example :
+// if i'm working on this repository https://github.com/haniladjamba/latihan-git1
+// that means
+// git remote -v
+// will show :
+//  origin  https://github.com/haniladjamba/latihan-git1 (fetch)
+//  origin  https://github.com/haniladjamba/latihan-git1 (push)
+
+// if it's not the same URL, then change it
+// to change the remote origin, this is what you will write in git bash
+// git remote remove origin
+// git remote add origin YOUR_NEW_URL
 //--------------------------------------------------------------------------------------------------------------------------------
 
 //--------------------------------------------------------------------------------------------------------------------------------
