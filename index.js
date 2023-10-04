@@ -6,4 +6,5 @@ console.log("Juan Keren");
 console.log("Hello world");
 console.log("front end menyenangkan");
 console.log("putri kedua");
-console.log0("Hani Jastin Giovanni Ladjamba");
+console.log("Hani Jastin Giovanni Ladjamba");
+console.log("Hani Jastin Giovanni Ladjamba 2");
