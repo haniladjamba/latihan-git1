@@ -43,6 +43,7 @@ console.log("front end menyenangkan");
 console.log("putri kedua");
 console.log("Hani Jastin Giovanni Ladjamba");
 console.log("Hani Jastin Giovanni Ladjamba 2");
+console.log("halohai, i'm natalia");
 
 // step 3 (open git bash)
 
