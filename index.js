@@ -46,6 +46,7 @@ console.log("Hani Jastin Giovanni Ladjamba 2");
 console.log("halohai, i'm natalia");
 console.log("ini kedua");
 console.log("jadi gini...")
+console.log("conflict")
 // step 3 (open git bash)
 
 // step 4 (add the changes that you make in the git bash)
