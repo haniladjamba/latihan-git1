@@ -46,7 +46,11 @@ console.log("Hani Jastin Giovanni Ladjamba 2");
 console.log("halohai, i'm natalia");
 console.log("ini kedua");
 console.log("jadi gini...")
+<<<<<<< HEAD
 console.log("fronted class")
+=======
+console.log("conflict")
+>>>>>>> 23512f97186e65c3967fc1e04682e9c7226c80cd
 // step 3 (open git bash)
 
 // step 4 (add the changes that you make in the git bash)
