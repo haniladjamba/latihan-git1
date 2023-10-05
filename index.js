@@ -47,7 +47,6 @@ console.log("halohai, i'm natalia");
 console.log("ini kedua");
 console.log("jadi gini...")
 console.log("fronted class")
-
 // step 3 (open git bash)
 
 // step 4 (add the changes that you make in the git bash)
